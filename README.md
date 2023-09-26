@@ -5,4 +5,4 @@ Coffee Sales Dashboard
 - Derived key business insights from the dashboard, including seasonal sales patterns, the impact of roast type on revenue, the effectiveness of loyalty card programs, and top 5 customers.
   
 Dashboard:
-![image](https://github.com/advaitpillai/brewing-insights/assets/138120457/0c03b8e8-fc5a-4ee0-876f-deb6b43ca28d)
+![image](https://github.com/advaitpillai/brewing-insights/assets/138120457/347810ca-38d9-494d-a489-1235dd3a7c3a)
